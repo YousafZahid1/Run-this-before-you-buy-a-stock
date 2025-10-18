@@ -1,0 +1,6 @@
+yfinance>=0.2.33
+finnhub-python>=2.4.19
+newsapi-python>=0.2.7
+git+https://github.com/JustAnotherArchivist/snscrape.git
+requests>=2.31.0
+beautifulsoup4>=4.12.3
